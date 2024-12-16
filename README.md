@@ -1,4 +1,4 @@
-# socail-media-on-vit-campus
+# social-media-on-vit-campus
 A social media app on vit campus
 
 DashBoard:
